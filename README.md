@@ -2,7 +2,7 @@
 <h3 align="center">CS student interested in Back-end Development and Data Engineering</h3>
 
 - 👨🏻‍🎓 I'm a new CS grad at York University 
-- 🔭 I participated in working on [LBA Blog 2.0]([https://github.com/Lassonde-Blockchain-Club/lba-blog-v2](https://github.com/theo-thanhlam/lba-blog-v2)) and [CSHub @ York](https://github.com/cshub-yorku)'s projects
+- 🔭 I participated in working on [LBA Blog 2.0](https://github.com/theo-thanhlam/lba-blog-v2) and [CSHub @ York](https://github.com/cshub-yorku)'s projects
 - 🌱 I’m currently learning **Python, PySpark, Data Warehouse** and Data Engineering's tools
 - 📫 How to reach me **theo.thanhlam@gmail.com**
 - 🔨 My projects are shown [here](https://theothanhlam.vercel.app)
